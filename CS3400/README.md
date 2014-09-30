@@ -1,0 +1,2 @@
+personalAssignments/CS3400
+This folder in the Repo will hold all of the individual assignments that are given for CS3400. It will contain Sub-Directories, titled after each of the assignments that are given. Within each of those Sub-Directories will be my source code files for that assignment.
